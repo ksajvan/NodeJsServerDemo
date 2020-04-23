@@ -23,7 +23,7 @@ In order to make this run, do following:
 15. create connection from Robo3T (default one) and that's it.
 15.1 create database named books
 15.2 add collection named books
-15.3 insert new document with data related to books
+15.3 insert new document with data related to books (use TestData file)
 16 . in order to connect to mongo from Node JS, install mongoose dependency: npm install mongoose
 
 
