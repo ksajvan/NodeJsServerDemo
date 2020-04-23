@@ -21,10 +21,10 @@ In order to make this run, do following:
 13. download Robo3T GUI for MongoDb
 14. run docker image: docker run --name mymongo -p 27017:27017 -d mongo
 15. create connection from Robo3T (default one) and that's it.
-15.1 create database named books
-15.2 add collection named books
-15.3 insert new document with data related to books (use TestData file)
-16 . in order to connect to mongo from Node JS, install mongoose dependency: npm install mongoose
+* 15.1 create database named books
+* 15.2 add collection named books
+* 15.3 insert new document with data related to books (use TestData file)
+16. in order to connect to mongo from Node JS, install mongoose dependency: npm install mongoose
 
 
 Keywords:
